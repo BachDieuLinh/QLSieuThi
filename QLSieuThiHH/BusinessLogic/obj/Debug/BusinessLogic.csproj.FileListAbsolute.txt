@@ -1,0 +1,5 @@
+D:\Thực tập nhóm\QLSieuThiHH\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Thực tập nhóm\QLSieuThiHH\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Thực tập nhóm\QLSieuThiHH\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\Thực tập nhóm\QLSieuThiHH\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Thực tập nhóm\QLSieuThiHH\BusinessLogic\obj\Debug\BusinessLogic.pdb

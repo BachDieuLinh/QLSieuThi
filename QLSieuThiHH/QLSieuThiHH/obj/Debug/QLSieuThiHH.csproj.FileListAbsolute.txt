@@ -1,0 +1,10 @@
+D:\Thực tập nhóm\QLSieuThiHH\QLSieuThiHH\bin\Debug\QLSieuThiHH.exe
+D:\Thực tập nhóm\QLSieuThiHH\QLSieuThiHH\bin\Debug\QLSieuThiHH.pdb
+D:\Thực tập nhóm\QLSieuThiHH\QLSieuThiHH\bin\Debug\BusinessLogic.dll
+D:\Thực tập nhóm\QLSieuThiHH\QLSieuThiHH\bin\Debug\BusinessLogic.pdb
+D:\Thực tập nhóm\QLSieuThiHH\QLSieuThiHH\obj\Debug\QLSieuThiHH.csprojResolveAssemblyReference.cache
+D:\Thực tập nhóm\QLSieuThiHH\QLSieuThiHH\obj\Debug\QLSieuThiHH.frmThongKe.resources
+D:\Thực tập nhóm\QLSieuThiHH\QLSieuThiHH\obj\Debug\QLSieuThiHH.Properties.Resources.resources
+D:\Thực tập nhóm\QLSieuThiHH\QLSieuThiHH\obj\Debug\QLSieuThiHH.csproj.GenerateResource.Cache
+D:\Thực tập nhóm\QLSieuThiHH\QLSieuThiHH\obj\Debug\QLSieuThiHH.exe
+D:\Thực tập nhóm\QLSieuThiHH\QLSieuThiHH\obj\Debug\QLSieuThiHH.pdb
