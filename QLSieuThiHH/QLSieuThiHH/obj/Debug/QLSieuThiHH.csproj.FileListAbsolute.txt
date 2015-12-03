@@ -8,3 +8,5 @@ D:\Thực tập nhóm\QLSieuThiHH\QLSieuThiHH\obj\Debug\QLSieuThiHH.Properties.R
 D:\Thực tập nhóm\QLSieuThiHH\QLSieuThiHH\obj\Debug\QLSieuThiHH.csproj.GenerateResource.Cache
 D:\Thực tập nhóm\QLSieuThiHH\QLSieuThiHH\obj\Debug\QLSieuThiHH.exe
 D:\Thực tập nhóm\QLSieuThiHH\QLSieuThiHH\obj\Debug\QLSieuThiHH.pdb
+E:\Nam 4 ki 1\TT nhóm\QLSieuThi\QLSieuThiHH\QLSieuThiHH\obj\Debug\QLSieuThiHH.exe
+E:\Nam 4 ki 1\TT nhóm\QLSieuThi\QLSieuThiHH\QLSieuThiHH\obj\Debug\QLSieuThiHH.pdb
