@@ -13,7 +13,7 @@ namespace QLY_SIEUTHI
         SqlConnection cn = new SqlConnection();
         static public String getconnect()
         {
-            return (@"Data Source=VAIO;Initial Catalog=Bai6_BanHangSieuThi;Integrated Security=True");
+            return (@"Data Source=VELASGOONER-PC;Initial Catalog=Bai6_BanHangSieuThi;Integrated Security=True");
 
         }
     }

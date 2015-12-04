@@ -15,3 +15,21 @@ C:\Users\huyen de\Documents\Visual Studio 2012\Projects\QLY_SIEUTHI\QLY_SIEUTHI\
 C:\Users\huyen de\Documents\Visual Studio 2012\Projects\QLY_SIEUTHI\QLY_SIEUTHI\obj\Debug\QLY_SIEUTHI.frmThemHD.resources
 C:\Users\huyen de\Documents\Visual Studio 2012\Projects\QLY_SIEUTHI\QLY_SIEUTHI\obj\Debug\QLY_SIEUTHI.frmThongKe.resources
 C:\Users\huyen de\Documents\Visual Studio 2012\Projects\QLY_SIEUTHI\QLY_SIEUTHI\obj\Debug\QLY_SIEUTHI.Main.resources
+E:\GitHub\QLSieuThi\QLY_SIEUTHI\QLY_SIEUTHI\bin\Debug\QLY_SIEUTHI.exe.config
+E:\GitHub\QLSieuThi\QLY_SIEUTHI\QLY_SIEUTHI\obj\Debug\QLY_SIEUTHI.exe
+E:\GitHub\QLSieuThi\QLY_SIEUTHI\QLY_SIEUTHI\obj\Debug\QLY_SIEUTHI.pdb
+E:\GitHub\QLSieuThi\QLY_SIEUTHI\QLY_SIEUTHI\bin\Debug\QLY_SIEUTHI.exe
+E:\GitHub\QLSieuThi\QLY_SIEUTHI\QLY_SIEUTHI\bin\Debug\QLY_SIEUTHI.pdb
+E:\GitHub\QLSieuThi\QLY_SIEUTHI\QLY_SIEUTHI\obj\Debug\QLY_SIEUTHI.csprojResolveAssemblyReference.cache
+E:\GitHub\QLSieuThi\QLY_SIEUTHI\QLY_SIEUTHI\obj\Debug\QLY_SIEUTHI.frmBanHang.resources
+E:\GitHub\QLSieuThi\QLY_SIEUTHI\QLY_SIEUTHI\obj\Debug\QLY_SIEUTHI.frmDangNhap.resources
+E:\GitHub\QLSieuThi\QLY_SIEUTHI\QLY_SIEUTHI\obj\Debug\QLY_SIEUTHI.frmHoaDonBan.resources
+E:\GitHub\QLSieuThi\QLY_SIEUTHI\QLY_SIEUTHI\obj\Debug\QLY_SIEUTHI.frmKhachHang.resources
+E:\GitHub\QLSieuThi\QLY_SIEUTHI\QLY_SIEUTHI\obj\Debug\QLY_SIEUTHI.frmLoaiHang.resources
+E:\GitHub\QLSieuThi\QLY_SIEUTHI\QLY_SIEUTHI\obj\Debug\QLY_SIEUTHI.frmNhanVien.resources
+E:\GitHub\QLSieuThi\QLY_SIEUTHI\QLY_SIEUTHI\obj\Debug\QLY_SIEUTHI.frmSanPham.resources
+E:\GitHub\QLSieuThi\QLY_SIEUTHI\QLY_SIEUTHI\obj\Debug\QLY_SIEUTHI.frmThemHD.resources
+E:\GitHub\QLSieuThi\QLY_SIEUTHI\QLY_SIEUTHI\obj\Debug\QLY_SIEUTHI.frmThongKe.resources
+E:\GitHub\QLSieuThi\QLY_SIEUTHI\QLY_SIEUTHI\obj\Debug\QLY_SIEUTHI.Main.resources
+E:\GitHub\QLSieuThi\QLY_SIEUTHI\QLY_SIEUTHI\obj\Debug\QLY_SIEUTHI.Properties.Resources.resources
+E:\GitHub\QLSieuThi\QLY_SIEUTHI\QLY_SIEUTHI\obj\Debug\QLY_SIEUTHI.csproj.GenerateResource.Cache
